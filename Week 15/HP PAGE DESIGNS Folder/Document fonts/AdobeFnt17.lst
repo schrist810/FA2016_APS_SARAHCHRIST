@@ -1,0 +1,113 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ClarendonBT-Roman
+FamilyName:Clarendon BT
+StyleName:Roman
+MenuName:Clarendon BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Clarendon BT
+WritingScript:Roman
+OutlineFileName:\08634_ClarendonBT.ttf
+DataFormat:sfntData
+FileLength:48856
+FileModTime:1477053726
+NameArray:0,Mac,4,Clarendon BT
+NameArray:0,Win,1,Clarendon BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ClarendonCondensed-Bold
+FamilyName:Clarendon Condensed
+StyleName:Bold
+MenuName:Clarendon Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:1
+AngleClass:0
+FullName:Clarendon Condensed Bold
+WritingScript:Roman
+OutlineFileName:\ClarendonCondensedBold.ttf
+DataFormat:sfntData
+FileLength:53408
+FileModTime:1444425934
+NameArray:0,Win,1,Clarendon Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Hero
+FamilyName:Hero
+StyleName:Regular
+MenuName:Hero
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Hero
+WritingScript:Roman
+OutlineFileName:\Hero.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:24380
+FileModTime:1461930194
+NameArray:0,Mac,4,Hero
+NameArray:0,Win,1,Hero
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1440962351
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway
+FamilyName:Raleway
+StyleName:Regular
+MenuName:Raleway
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Raleway
+WritingScript:Roman
+OutlineFileName:\Raleway-Regular.ttf
+DataFormat:sfntData
+FileLength:130128
+FileModTime:1415918066
+NameArray:0,Mac,18,Raleway
+NameArray:0,Mac,4,Raleway
+NameArray:0,Win,1,Raleway
+%EndFont
+
