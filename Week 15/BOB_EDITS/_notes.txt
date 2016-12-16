@@ -1,0 +1,12 @@
+notes for sarah
+
+=> Grid 
+
+margins don’t account for grid, first and last column smaller than the rest
+12 columns is good, (/2, /3, /4, /6), but some pages have more, 22 not good
+
+Use columns in indesign, not guides, consistent across each page, can’t be selected or moved.
+
+get rounded and even text sizes
+
+^ not web safe => U+02C5 Clarendon BT &#709;

@@ -17,7 +17,7 @@ WritingScript:Roman
 OutlineFileName:\08634_ClarendonBT.ttf
 DataFormat:sfntData
 FileLength:48856
-FileModTime:1477053726
+FileModTime:1481730265
 NameArray:0,Mac,4,Clarendon BT
 NameArray:0,Win,1,Clarendon BT
 %EndFont
@@ -38,7 +38,7 @@ WritingScript:Roman
 OutlineFileName:\ClarendonCondensedBold.ttf
 DataFormat:sfntData
 FileLength:53408
-FileModTime:1444425934
+FileModTime:1481730265
 NameArray:0,Win,1,Clarendon Condensed
 %EndFont
 
@@ -60,7 +60,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:24380
-FileModTime:1461930194
+FileModTime:1481730265
 NameArray:0,Mac,4,Hero
 NameArray:0,Win,1,Hero
 %EndFont
@@ -83,7 +83,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:218640
-FileModTime:1440962351
+FileModTime:1481730265
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -105,7 +105,7 @@ WritingScript:Roman
 OutlineFileName:\Raleway-Regular.ttf
 DataFormat:sfntData
 FileLength:130128
-FileModTime:1415918066
+FileModTime:1481730265
 NameArray:0,Mac,18,Raleway
 NameArray:0,Mac,4,Raleway
 NameArray:0,Win,1,Raleway
